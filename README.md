@@ -8,25 +8,20 @@ Multilingual Translator: A Tkinter Web App is a user-friendly application built 
 
 Whether you're traveling, learning a new language, or communicating with someone who speaks a different language, this tool will provide a simple, effective solution for overcoming language barriers.
 
-# Features
+## **Features**
+- **Supports multiple languages** for translation.
+- **Simple and intuitive Tkinter GUI** to enhance user experience.
+- **Real-time translation** using API integration.
+- **Translate from and to any supported language** in a single interface.
+- **Clear display of translated text** with a user-friendly layout.
 
 
-Supports multiple languages for translation.
-Simple and intuitive Tkinter GUI to enhance user experience.
-Real-time translation using API integration.
-Translate from and to any supported language in a single interface.
-Clear display of translated text with user-friendly layout.
+## **Technologies Used**
 
-
-# Technologies Used
-
-
-
-
-Python: The core programming language used for the application.
-Tkinter: Python's standard GUI library for creating the user interface.
-Translation API: External API service for translating text between languages (e.g., Google Translate API).
-Requests Library: To make HTTP requests to the translation API.
+-**Python**: The core programming language used for the application.
+-**Tkinter**: Python's standard GUI library for creating the user interface.
+-**Translation API**: External API service for translating text between languages (e.g., Google Translate API).
+-**Requests Library:** To make HTTP requests to the translation API.
 
 # How It Works
 
@@ -45,7 +40,7 @@ Install dependencies
 Clone the repository:
 
 
-git clone 
+git clone https://github.com/DivyaMuruganIBM/Multilingual-Translator-A-Tkinter-Web-App.git
 Navigate to the project directory:
 
 
@@ -66,4 +61,3 @@ Click on the Translate button to get the translated text in the output area.
 
 =======
 
->>>>>>> 3b9148bd6745b70f40804adf57ed3f130d8c34ff
