@@ -17,11 +17,10 @@ Whether you're traveling, learning a new language, or communicating with someone
 
 
 ## **Technologies Used**
-
--**Python**: The core programming language used for the application.
--**Tkinter**: Python's standard GUI library for creating the user interface.
--**Translation API**: External API service for translating text between languages (e.g., Google Translate API).
--**Requests Library:** To make HTTP requests to the translation API.
+- **Python**: The core programming language used for the application.
+- **Tkinter**: Python's standard GUI library for creating the user interface.
+- **Translation API**: External API service for translating text between languages (e.g., Google Translate API).
+- **Requests Library:** To make HTTP requests to the translation API.
 
 # How It Works
 
